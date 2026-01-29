@@ -4,7 +4,7 @@ The objective of this project is to design an interactive Power BI dashboard tha
 
 ## 🔗 Data Source
 The data used in this dashboard is fetched directly from Weather API platforms using the **Web (URL) connector** in Power BI.
-**Note:** The project consumes live weather data directly from Weather APIs using Power BI Web connectors, hence no static dataset is stored in the repository.
+- Note: The project consumes live weather data directly from Weather APIs using Power BI Web connectors, hence no static dataset is stored in the repository.
 
 ## 📊 Dashboard Features
 - Current temperature & weather conditions  
